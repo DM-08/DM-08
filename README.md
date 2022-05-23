@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DM-08
 - 👀 I’m interested in ... all things computing
-- 🌱 I’m currently learning ... node
+- 🌱 I’m currently learning ... Selenium with C#
 - 💞️ I’m looking to collaborate on ... just about anything
 - 📫 How to reach me ...
 
